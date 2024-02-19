@@ -1,0 +1,8 @@
+a.out
+test.c
+*.o
+*.a
+minilibx-linux
+*.old
+so_long
+so_long_bonus
